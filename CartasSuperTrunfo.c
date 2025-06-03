@@ -20,3 +20,7 @@ int main() {
 
     return 0;
 }
+
+int main
+printf("desafio xadrez!\n"):
+
