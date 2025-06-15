@@ -1,4 +1,4 @@
-#includ <stdio.h>
+#include <stdio.h>
 'int main()'{  // Variaveis para carta1
     
     int populacao = 20;
